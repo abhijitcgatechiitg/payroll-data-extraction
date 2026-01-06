@@ -1,0 +1,10 @@
+# Payroll Data Extraction - Dependencies
+
+# PDF Processing
+pymupdf>=1.23.0
+
+# LLM API
+anthropic>=0.18.0
+
+# Environment Variables
+python-dotenv>=1.0.0
