@@ -98,6 +98,3 @@ outputs/PR-Register/
 ```
 
 ---
-
-**Status**: 🟢 Schema finalized and ready  
-**Waiting for**: Your review and approval to proceed with pipeline development
